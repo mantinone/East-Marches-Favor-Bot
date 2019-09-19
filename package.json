@@ -1,0 +1,24 @@
+{
+  "name": "east-marches-favor-bot",
+  "version": "1.0.0",
+  "description": "A bot for tracking favor in East Marches",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mantinone/East-Marches-Favor-Bot.git"
+  },
+  "author": "mantinone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mantinone/East-Marches-Favor-Bot/issues"
+  },
+  "homepage": "https://github.com/mantinone/East-Marches-Favor-Bot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.1.0"
+  }
+}
